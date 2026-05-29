@@ -6,7 +6,8 @@ This report explores the relationship between house prices and disposable income
 
 Pages
 
-- Main
+- Main <img width="1254" height="713" alt="image" src="https://github.com/user-attachments/assets/24393fd8-df4d-48e6-9f1a-c2a9eda904f7" />
+
 
   Landing and Navigation page of the report:
   
@@ -19,16 +20,16 @@ Pages
   Additional Navigation buttons: Change_For (Drill-through to the Country_Affordability_Change_Forecast), Breakdown (Drill-through to Country_Breakdown)
 
   
-- Global Affordability- Last 30 Years
-  
-  A level view of affordability across all countries:
+- Global Affordability- Last 30 Years <img width="1267" height="705" alt="Screenshot 2026-05-29 192758" src="https://github.com/user-attachments/assets/860190b4-a69f-4fbb-8d10-4962d29cfd81" />
+
+  A level view of affordability across all countries, includes a indivisualized chart (via tooltip) displaying the average affodability over time:
   
   Bar Chart: Average affordability by country over the last relevant 30 Years (2023 to 1993 for relevant data)
   
   Card: Average Affordability of Top N (N = 5) countries
   
-- Global Timechart
-  
+- Global Timechart<img width="1263" height="704" alt="Screenshot 2026-05-29 192815" src="https://github.com/user-attachments/assets/936833db-cd60-4482-ae6f-c12342848dd4" />
+
   A Global dynamic scatter-plot showing how affordability has evolved for each country over-time:
   
   Plots; x = Average Housing Price, y =  Average Disposable Income
@@ -38,16 +39,16 @@ Pages
   Play Axis is based on the year which tracks shifts over time
 
   
-- Country Affordability
-  
+- Country Affordability<img width="1262" height="715" alt="Screenshot 2026-05-29 192823" src="https://github.com/user-attachments/assets/5902a66b-823d-41d5-858a-6624da6c1237" />
+
   A focused country specific analysis with forecasting of Affordability over-time:
   
   Line Chart shows the average affordability trend by year, with the dotted section forecasting affordability over the enxt 10 years
   
   KPI Cards show current affordability and price to disposable income. Also shows 15 Year and 30 Year changes in income and housing price
   
-- Country Breakdown
-  
+- Country Breakdown <img width="1265" height="715" alt="Screenshot 2026-05-29 192837" src="https://github.com/user-attachments/assets/b48974fe-0841-40d3-ad35-d51bf548149e" />
+
   A country specific deep dive enabling focus on specific data/time points:
   
   Line Chart displays the disposable income vs housing prices over time.
