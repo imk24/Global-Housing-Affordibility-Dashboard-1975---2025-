@@ -2,7 +2,7 @@ Global-Housing-Affordability
 
 A Power BI report analyzing housing affordability trends across countries, spanning a 30 year stretch of historical data with forecasting analysis.
 
-This report explores the relationship between house prices and disposable income across countries over time. It enables both broad overarching global comparisons and deep country specific breakdowns, with trend analysis per country.
+This report explores the relationship between house prices and disposable income across countries over time. It enables both broad overarching global comparisons and deep country specific breakdowns, with trend analysis per country. Affordability is graded by relativity to 100. If above it is not affordable, and if below it is considered more affordable.
 
 Pages
 
@@ -59,7 +59,7 @@ Pages
 
 Key Metrics
 
-Affordability- Composite measure of housing cost relative to income
+Affordability- Composite measure of housing cost relative to disposable income
 
 Price_To_Dis_Income - Ratio of house price to disposable income
 
@@ -70,5 +70,7 @@ Global Avg Affordability - Cross-country average used as a benchmark
 Curr vs Global Avg - (%)How a country compares to the global average
 
 House_Change_15Y / House_Change_30Y% - change in house prices over 15 and 30 years
+
 Change_Dis_Income_15 / Change_Dis_Income_30% - change in disposable income over 15 and 30 years
+
 Best/Worst Affordability Year - Historical peak and trough for a given country
