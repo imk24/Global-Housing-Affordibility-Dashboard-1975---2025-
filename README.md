@@ -45,10 +45,15 @@ Pages
 Key Metrics
 
 Affordability- Composite measure of housing cost relative to income
+
 Price_To_Dis_Income - Ratio of house price to disposable income
+
 CurrentAffordability - Most recent affordability reading for the selected country
+
 Global Avg Affordability - Cross-country average used as a benchmark
+
 Curr vs Global Avg - (%)How a country compares to the global average
+
 House_Change_15Y / House_Change_30Y% - change in house prices over 15 and 30 years
 Change_Dis_Income_15 / Change_Dis_Income_30% - change in disposable income over 15 and 30 years
 Best/Worst Affordability Year - Historical peak and trough for a given country
