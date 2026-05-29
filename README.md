@@ -1,4 +1,5 @@
 Global-Housing-Affordability
+
 A Power BI report analyzing housing affordability trends across countries, spanning a 30 year stretch of historical data with forecasting analysis.
 
 This report explores the relationship between house prices and disposable income across countries over time. It enables both broad overarching global comparisons and deep country specific breakdowns, with trend analysis per country.
