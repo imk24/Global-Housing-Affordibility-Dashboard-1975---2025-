@@ -1,12 +1,14 @@
-Global-Housing-Affordability
+# Overview
 
 A Power BI report analyzing housing affordability trends across countries, spanning a 30 year stretch of historical data with forecasting analysis.
 
 This report explores the relationship between house prices and disposable income across countries over time. It enables both broad overarching global comparisons and deep country specific breakdowns, with trend analysis per country. Affordability is graded by relativity to 100. If above it is not affordable, and if below it is considered more affordable.
 
-Pages
+## Pages
 
-- Main <img width="1254" height="713" alt="image" src="https://github.com/user-attachments/assets/24393fd8-df4d-48e6-9f1a-c2a9eda904f7" />
+- ### Main
+
+  <img width="1254" height="713" alt="image" src="https://github.com/user-attachments/assets/24393fd8-df4d-48e6-9f1a-c2a9eda904f7" />
 
 
   Landing and Navigation page of the report:
@@ -20,7 +22,9 @@ Pages
   Additional Navigation buttons: Change_For (Drill-through to the Country_Affordability_Change_Forecast), Breakdown (Drill-through to Country_Breakdown)
 
   
-- Global Affordability- Last 30 Years <img width="1267" height="705" alt="Screenshot 2026-05-29 192758" src="https://github.com/user-attachments/assets/860190b4-a69f-4fbb-8d10-4962d29cfd81" />
+- ### Global Affordability- Last 30 Years 
+
+<img width="1267" height="705" alt="Screenshot 2026-05-29 192758" src="https://github.com/user-attachments/assets/860190b4-a69f-4fbb-8d10-4962d29cfd81" />
 
   A level view of affordability across all countries, includes a indivisualized chart (via tooltip) displaying the average affodability over time:
   
@@ -28,7 +32,9 @@ Pages
   
   Card: Average Affordability of Top N (N = 5) countries
   
-- Global Timechart<img width="1263" height="704" alt="Screenshot 2026-05-29 192815" src="https://github.com/user-attachments/assets/936833db-cd60-4482-ae6f-c12342848dd4" />
+- ### Global Timechart
+
+<img width="1263" height="704" alt="Screenshot 2026-05-29 192815" src="https://github.com/user-attachments/assets/936833db-cd60-4482-ae6f-c12342848dd4" />
 
   A Global dynamic scatter-plot showing how affordability has evolved for each country over-time:
   
@@ -39,7 +45,9 @@ Pages
   Play Axis is based on the year which tracks shifts over time
 
   
-- Country Affordability<img width="1262" height="715" alt="Screenshot 2026-05-29 192823" src="https://github.com/user-attachments/assets/5902a66b-823d-41d5-858a-6624da6c1237" />
+- ### Country Affordability
+
+<img width="1262" height="715" alt="Screenshot 2026-05-29 192823" src="https://github.com/user-attachments/assets/5902a66b-823d-41d5-858a-6624da6c1237" />
 
   A focused country specific analysis with forecasting of Affordability over-time:
   
@@ -47,7 +55,9 @@ Pages
   
   KPI Cards show current affordability and price to disposable income. Also shows 15 Year and 30 Year changes in income and housing price
   
-- Country Breakdown <img width="1265" height="715" alt="Screenshot 2026-05-29 192837" src="https://github.com/user-attachments/assets/b48974fe-0841-40d3-ad35-d51bf548149e" />
+- ### Country Breakdown 
+
+<img width="1265" height="715" alt="Screenshot 2026-05-29 192837" src="https://github.com/user-attachments/assets/b48974fe-0841-40d3-ad35-d51bf548149e" />
 
   A country specific deep dive enabling focus on specific data/time points:
   
@@ -57,7 +67,7 @@ Pages
   
   Cards show current affordability, global average affodability, % difference between global and current, and best and worst years for affodability.
 
-Key Metrics
+## Key Metrics
 
 Affordability- Composite measure of housing cost relative to disposable income
 
